@@ -25,7 +25,7 @@ A Dummy Web based applicaton for Hospitals where one can create their accounts a
 Clone the project
 
 ```bash
-  git clone https://github.com/Aarav619/hms-frontend.git
+  git clone https://github.com/BandiRohith5/hospital-management
 ```
 
 Go to the project directory
@@ -59,13 +59,4 @@ Start the server
 
 ![mobile-landing-page](Screenshots/mobile-landing-page.png)&nbsp; &nbsp; &nbsp; ![mobile-login-page](Screenshots/mobile-login.png)
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at aaravmishra619@gmail.com
-
-
-## Support
-
-For support, email aaravmishra619@gmail.com 
 
